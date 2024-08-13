@@ -1,0 +1,57 @@
+body{
+    background-image: url(/assets/sky--purple-kracked.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+button{
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-left: 90%;
+
+}
+
+.head{
+    text-align: center;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50PX; 
+    padding: 180px 0px;
+}
+
+.hashtag{
+    color: rgb(244, 164, 15);
+    
+}
+.word{
+    color: white;
+    
+}
+.num{
+    color: rgb(244, 164, 15);
+    
+}
+/* .JS-Coding{
+    color: white;
+    font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+    padding: 150px 0px;
+}
+.Tutorials{
+    color: white;
+    padding: 150px 0px;
+    
+}
+.FRAME{
+    color: white;
+} */
+p{
+    color:white;
+
+}
+.head-branch{
+    text-align: center;
+    padding: 20px 0px;
+}
