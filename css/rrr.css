@@ -49,9 +49,16 @@ button{
 } */
 p{
     color:white;
+     text-align: center;
+    padding: 10px 40px;  
+    font-size: 30px;
 
 }
 .head-branch{
     text-align: center;
-    padding: 20px 0px;
+     padding: 20px 0px; 
+}
+.h1{
+    
+    color: rgb(230, 162, 34);
 }
